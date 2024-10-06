@@ -1,0 +1,2678 @@
+[33mcommit 2bb22034d8a2401db184edfcb147360bc502f3d2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massignment-1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/assignment-1[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu Oct 3 20:02:15 2024 -0400
+
+    Minor updates to regression part two slides (#116)
+
+[33mcommit 3ee57330ef6f50b6b4ded9ff8815b15e5164b22a[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Oct 1 21:12:01 2024 -0400
+
+    Fixed the RMSPE formula in notebook (#111)
+
+[33mcommit 601844fdfa9da011c28117d4695180549b9a22d2[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Mon Sep 30 23:59:01 2024 -0400
+
+    Minor updates to regression (#109)
+
+[33mcommit 49c81cb06167f3fbfd060efc01a1cb607dc12b9e[m
+Merge: 5476b71 a435708
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 30 16:36:20 2024 -0400
+
+    Merge pull request #105 from UofT-DSI/a2-update
+    
+    Assignment 2 updated to use new dataset
+
+[33mcommit a435708604930a2e3ff2b8f1c634d077409e78a6[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 30 10:12:49 2024 -0400
+
+    Updated the a2 to address TF feedback.
+
+[33mcommit af6d29cf52b3c52f75e5f466cab16cc196b8a882[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Sat Sep 28 17:32:15 2024 -0400
+
+    a2 updated.
+
+[33mcommit 5476b71ebe991cb8e03195cebb623dbd90aa2ab6[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu Sep 26 21:03:47 2024 -0400
+
+    minor changes (#102)
+
+[33mcommit c735240a23e7a805eec3c04e8b88f6e3b685a63a[m
+Merge: d8133cd 7e2a89b
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Sep 26 17:35:34 2024 -0400
+
+    Merge branch 'main' of https://github.com/UofT-DSI/applying_statistical_concepts
+
+[33mcommit d8133cd2fabd908a4c104529f58c61b56565b3aa[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Sep 26 17:35:22 2024 -0400
+
+    Fixing issue #92
+
+[33mcommit 7e2a89b57b79bf4466668555b45c17914bf58a69[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Sep 26 17:26:44 2024 -0400
+
+    Add files via upload
+    
+    update A3
+
+[33mcommit 32a68ccef878cc4a622dc5fdf9b1aa7c61b62681[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Sep 26 10:50:41 2024 -0400
+
+    Add files via upload
+    
+    fixed typo
+
+[33mcommit dc4974bfa16aeab66e1d1a1458d36e4907a9663b[m
+Merge: 55a2399 0c4093a
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Thu Sep 26 10:19:23 2024 -0400
+
+    Merge pull request #99 from HongleiXie/main
+    
+    Fix a typo
+
+[33mcommit 0c4093a08a9d2646f599aca81c36f8cd0b2ddfe0[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Wed Sep 25 20:47:10 2024 -0400
+
+    fix a typo
+
+[33mcommit 55a239923d159c976582dad326a1e736989876e0[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Sep 25 17:31:34 2024 -0400
+
+    Add files via upload (#98)
+    
+    fix error in random seed
+
+[33mcommit c4b2fbab3cdb9f5bd17748de1a0682864a5eb188[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 16:59:21 2024 -0400
+
+    Updating Description and Learning Outcomes.
+
+[33mcommit 359a290d7911eed0783c6a42d7227c5921330359[m
+Merge: 6c15c09 c2cff92
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 13:32:11 2024 -0400
+
+    Merge pull request #97 from HongleiXie/main
+    
+    updates for cohort 4
+
+[33mcommit c2cff9248ce2a61dd64012af536c5c3346d8799a[m
+Merge: f7b48c2 6c15c09
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 13:31:34 2024 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit f7b48c296b04425234f2fcef1715849fccc81a76[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Sep 24 10:26:54 2024 -0400
+
+    updates
+
+[33mcommit 9b234d54d01006d9a4ea213f8a7eb9652da6541b[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Sep 24 10:19:01 2024 -0400
+
+    updates for cohort 4
+
+[33mcommit 6c15c09fab1841bde41a4e6e17c4cc0631dc4e86[m
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 09:50:59 2024 -0400
+
+    Update README.md
+
+[33mcommit 4edda146cc680525d28952e3952dfd8b670aeec8[m
+Merge: 4e9d303 3bd4833
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 09:33:36 2024 -0400
+
+    Merge pull request #96 from UofT-DSI/Edits
+    
+    Updating ASC for Cohort 4.
+
+[33mcommit 3bd483324ea13a120ed19bdb1214b05a8073c3dc[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 09:31:39 2024 -0400
+
+    Last minute touch ups.
+
+[33mcommit ee810f79acb16027769b3d59db6dc333013ba073[m
+Author: Daniel Razavi <danraz1376@gmail.com>
+Date:   Tue Sep 24 01:30:52 2024 -0400
+
+    Moving slide's markdown files into their respective folders.
+
+[33mcommit c29d8590d2a4afd73d8d77c10fa1d7933151aa7a[m
+Merge: 80c3801 4e9d303
+Author: Daniel Razavi <danraz1376@gmail.com>
+Date:   Tue Sep 24 01:23:41 2024 -0400
+
+    Merge branch 'main' of https://github.com/UofT-DSI/applying_statistical_concepts into Edits
+
+[33mcommit 80c3801a2118004f372e35fd6df56171cca5f0a3[m
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 24 01:16:25 2024 -0400
+
+    Update README.md
+    
+    Removing red flags that are addressed.
+
+[33mcommit 803cd86e44e6fbb37d964617e0dd57f5a64089a5[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 23 22:37:36 2024 -0400
+
+    Update README.md
+    
+    updated learning outcomes, schedule and assignment
+
+[33mcommit 470e30b626a93ff7374acad7f475ee63f9831417[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 16:08:07 2024 -0400
+
+    potnetial assignment due dates added in.
+
+[33mcommit 3daa2b445bf5904207640094a9dd3b7d3f493acd[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 16:00:11 2024 -0400
+
+    Parts of the README that need a look have been highlighted 🚩, and unencessary third party videos have been commented out.
+
+[33mcommit 8302f8bd66da9c6baef9842950e5fa16c16b20fe[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 15:50:27 2024 -0400
+
+    updating the instructional team README + removing unnecessary files.
+
+[33mcommit 02d9b392577aec2f53f1dad97103373db45b3eda[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 15:19:34 2024 -0400
+
+    removing assignment outputs. removing homeworks, removing old assignments.
+
+[33mcommit ab74fb02769bb4ecd41f61e750c50ef93352fe3b[m
+Merge: 93cb5e7 9ac2977
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 15:09:27 2024 -0400
+
+    Merge branch 'Edits' of https://github.com/UofT-DSI/applying_statistical_concepts into Edits
+
+[33mcommit 93cb5e71eb31447916ccf0518cdc6539ffa62abe[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 15:09:20 2024 -0400
+
+    Making sure the slides adhere to the general theme. Cleaning up the markdown syntaxes.
+
+[33mcommit 9ac297766246dfe73f803198c7e524851c6299cf[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 23 14:46:38 2024 -0400
+
+    Add files via upload
+
+[33mcommit 0bc11936720dbe1b6d389faca1edc04325a54689[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 23 13:53:23 2024 -0400
+
+    Add files via upload
+
+[33mcommit 44236fb223ad3c420539358e3fa627d90e6f4f9f[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 23 13:43:11 2024 -0400
+
+    Update assignment_1.ipynb
+
+[33mcommit 92cc339d5346b51e13b60bd578daf2466be49249[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 12:16:42 2024 -0400
+
+    Moved older homeworks into their own folder, to be deleted later. Updated made new homework 1.
+
+[33mcommit 76ac41842970d2f0b864fea1fc09d44f6456e608[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 09:44:34 2024 -0400
+
+    Reviewing the material README and placing it into the correct place.
+
+[33mcommit b369157602ff16652eafd936d996bbb30026b5cd[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 09:41:58 2024 -0400
+
+    04_cohort_three -> 04_this_cohort
+
+[33mcommit 26435e2bf0481c0eccc602b4c51d843faad92c39[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 09:29:18 2024 -0400
+
+    removing old assignments
+
+[33mcommit 23711e5e3ea0953ee2b259650d2ad947d023d88a[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 09:29:01 2024 -0400
+
+    Moving markdown files into the appropriate location.
+
+[33mcommit 773ab85646d312914ab901e374a536b6b37a051b[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Sep 23 09:28:05 2024 -0400
+
+    Assignment 1 added in.
+
+[33mcommit 4e9d303a5c934d88c27659d7c90abde4cb4decf7[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sat Sep 21 10:38:51 2024 -0400
+
+    Edits merging into main (#93)
+
+[33mcommit 44e8cfb5e91a3297c9cf7606d40b7482221858c4[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri Sep 20 20:10:16 2024 -0400
+
+    Increasing the interactivity and readability of the stats inference notebook
+
+[33mcommit 84a534f1d8b6d84234b89bd7fad7f0ef7baca7e8[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri Sep 20 10:28:42 2024 -0400
+
+     increasing the interactivity and readability of clustering notebook
+
+[33mcommit 0290db2464ac9f11f5bd2d84aab4a67e5c0b9249[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Sep 18 22:34:38 2024 -0400
+
+    Add files via upload
+
+[33mcommit 13db843b2e1373341ebc72e5b8dcdb6d2888bca1[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Sep 18 22:34:16 2024 -0400
+
+    Delete 01_materials/notebooks/listings.csv
+    
+    wrong location
+
+[33mcommit 5d83f852a387a2606ecfec050b9038f314d9b3df[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Sep 18 16:43:36 2024 -0400
+
+    Adding a disclaimer for the Plotly graph that it won't work unless it's clone-blocked.
+
+[33mcommit 8a09e913f88ca3c93beee982aa87d5eb2418bb02[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Sep 18 16:40:16 2024 -0400
+
+    Increasing the interactivity and readability of the notebook.
+
+[33mcommit 8c0cd31fe39d1fa266b5ba1a9f30f17e342591b4[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 17 23:15:01 2024 -0400
+
+    Increase readability of notebook.
+
+[33mcommit 92a356ddefb962d0baf7730db1fbfdbc9565e206[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Sep 17 16:20:33 2024 -0400
+
+    Updating clustering 2 while also the structure of the notebooks folder.
+
+[33mcommit 5a83a622ea21bdc4a405c307fbb40a7670f98ea0[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Sep 11 15:47:21 2024 -0400
+
+    Add files via upload
+
+[33mcommit 1419972d3467687ba0df87a00e5a951adfdb6cdb[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Sep 11 15:47:07 2024 -0400
+
+    Add files via upload
+
+[33mcommit 737a76dbfb60b8dfc229ca5d7cca9be4760cfd91[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Tue Sep 10 12:07:57 2024 -0400
+
+    Add files via upload
+
+[33mcommit b4f4019873eca21362a384aeffc7e56f66134bf0[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Tue Sep 10 12:07:19 2024 -0400
+
+    Add files via upload
+
+[33mcommit fdb30133a47b868f8a37187a2d6b18a0b7567ce8[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 14:38:10 2024 -0400
+
+    Add files via upload
+    
+    regression dataset
+
+[33mcommit 59ac282180ef57d4357ba252e77e16ea021af676[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 14:37:51 2024 -0400
+
+    Add files via upload
+    
+    regression notebook
+
+[33mcommit b38c39225f3170389f7a039598700d0b96e3c32e[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:31:52 2024 -0400
+
+    Add files via upload
+    
+    .md files for slides
+
+[33mcommit 7d8caeb3f56c96b8fdfaa6022c30dbdd521eca85[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:29:34 2024 -0400
+
+    Create README.md
+    
+    readme for slide decks
+
+[33mcommit aa94923a99e651299469b8374bf9c875c21b6c21[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:15:38 2024 -0400
+
+    Update README.md
+
+[33mcommit c249aeef0486b75f4836e2a77407c07b630a7bbe[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:15:12 2024 -0400
+
+    Add files via upload
+
+[33mcommit b5548301e48f31b9fe88c08aa92b5bad807a281e[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:14:07 2024 -0400
+
+    Add files via upload
+
+[33mcommit 8e894475a18f5c7e59a2a825a8d84d539e08e14d[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:13:51 2024 -0400
+
+    Create README.md
+    
+    readme for notebooks
+
+[33mcommit 1a47fd5bbbd164a01ec3a7531299704fc2fdf3fc[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:11:35 2024 -0400
+
+    Delete 01_materials/slides/Classification-1.ipynb
+    
+    move to notebooks
+
+[33mcommit 702e60cdab591ff0e00275a3fd8cfebbf4be14cd[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 13:10:07 2024 -0400
+
+    Add files via upload
+
+[33mcommit 922ad4a5e9354573da7b5d7e6fb63bb5825faee8[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:51:46 2024 -0400
+
+    Add files via upload
+
+[33mcommit ed6eee2349a44fdfa91c86a15b5291e4bbb1b738[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:51:17 2024 -0400
+
+    Delete 01_materials/slides/9_the_bootstrap.pdf
+
+[33mcommit 00b30646ba012c955abff9dca30fce999478aa74[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:51:09 2024 -0400
+
+    Delete 01_materials/slides/8_k_fold_cross_validation.pdf
+
+[33mcommit b5c98e6906fe28f8ec500c154f40436c6fac779a[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:51:03 2024 -0400
+
+    Delete 01_materials/slides/7_leave_one_out_cross_validation.pdf
+
+[33mcommit c6f09a5258f9073fbaa3d15694162d3a5c3b1c87[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:50:56 2024 -0400
+
+    Delete 01_materials/slides/6_generalized_linear_models.pdf
+
+[33mcommit e4837335b0c99887373139d3f81dd0b1d1be3890[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:50:49 2024 -0400
+
+    Delete 01_materials/slides/5_logistic_regression.pdf
+
+[33mcommit 51caf3a8a53989ae6d44ca3c3f11c4c09b6f8e54[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:50:40 2024 -0400
+
+    Delete 01_materials/slides/4_classification.pdf
+    
+    deleting old slides
+
+[33mcommit 9691b9fa5517c256b1dbecbcc377f7ed2b5e6b7b[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:50:29 2024 -0400
+
+    Delete 01_materials/slides/3_multiple_linear_regression.pdf
+
+[33mcommit a2ea5de3e06fa13777a2d7b5f12c5005c286b54a[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:49:54 2024 -0400
+
+    Delete 01_materials/slides/2_linear_regression.pdf
+
+[33mcommit 05d495a1a3a80a99e5f12c863e4c3505da992392[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:49:41 2024 -0400
+
+    Delete 01_materials/slides/1_statistical_learning.pdf
+
+[33mcommit ff6bf8d23d0985ecb89237932d2547e4506a3335[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Sep 9 12:48:57 2024 -0400
+
+    Add files via upload
+
+[33mcommit e00afcf0ce67e2da696f74529578096c5c571df1[m
+Merge: 4fb7e30 ae18595
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:31:13 2024 -0400
+
+    Merge pull request #91 from UofT-DSI/update
+    
+    file structure change
+
+[33mcommit ae1859549545b341e079a293b44af1f2ef5a6e10[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:19:20 2024 -0400
+
+    README update.
+
+[33mcommit 5aacbcd5bf3c3e2e6f368538ce5e9d6aa81015da[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:11:11 2024 -0400
+
+    06_cohort_three --> 04_cohort_three
+
+[33mcommit b43f29684978414b19296e46c44ac2f44f852c4c[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:10:04 2024 -0400
+
+    05_instructional_team --> 03_instructional_team
+
+[33mcommit 9ef4c8857ecc2afa615770e7a25826d4466387f9[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:06:42 2024 -0400
+
+    02_assignments, 03_exercises, 04_homework --> 02_activities
+
+[33mcommit cc6a34de257a4ffb0a4121db15f7b8e4a2a1156e[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 22 12:02:13 2024 -0400
+
+    01_slides --> 01_materials/slides
+
+[33mcommit 4fb7e30cdb69fbdf38dc2ca97011cdc708261715[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 15 12:34:51 2024 -0400
+
+    Updating workflow
+
+[33mcommit 565264c4a3a8d5f09ec86024d51ebbb57f220015[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jul 8 11:30:17 2024 -0400
+
+    Workflow added for automated comments.
+
+[33mcommit 4fcb1f4d4852894871ebc8823089ae2aa4cfbba6[m
+Merge: 40c9701 3f22330
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Fri Jun 14 14:46:26 2024 -0400
+
+    Merge pull request #80 from vishnouvina/main
+    
+    Changed wording of q.6 in A3, fixed typo in q8
+
+[33mcommit 3f22330f0b7a6f391924518bbff908908a17db41[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Fri Jun 14 13:37:41 2024 -0400
+
+    Changed wording of q.6 in A3, fixed typo in q8
+
+[33mcommit 40c9701da270973998ce228d2461f7d2f7940e05[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Wed Jun 12 17:49:53 2024 -0400
+
+    Contents change for session 9 (#77)
+
+[33mcommit 9b19fc0ec912e003b1c2abc76cd3f868e704f432[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Jun 11 12:05:02 2024 -0400
+
+    save work (#75)
+
+[33mcommit 48cb3163b2b0a2f30752bddcae33ccb93277a5a9[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jun 10 09:02:41 2024 -0400
+
+    applied to applying
+
+[33mcommit 437bcea3e63849c5eaee684fed70d46a855b729f[m
+Merge: b2d391c f0261d2
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Fri Jun 7 13:52:55 2024 -0400
+
+    Merge pull request #56 from HongleiXie/main
+    
+    Bug fixing in ASC assignment 2
+
+[33mcommit f0261d2c7a14b920d06a8f41379a7a5c008d50af[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Fri Jun 7 13:49:32 2024 -0400
+
+    bug fixing in assignment 2
+
+[33mcommit e9bdb735c616b9b4c7f5a1ed5a5d7328eb32923b[m
+Merge: 2d6364b b2d391c
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu Jun 6 17:14:40 2024 -0400
+
+    Merge branch 'UofT-DSI:main' into main
+
+[33mcommit b2d391c9bde951893c445d9e98774a068d62bf5e[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu Jun 6 17:14:19 2024 -0400
+
+    Contents change for session 6 (#54)
+
+[33mcommit 2d6364b03d4a21e7280de11fb11bb9101a7557fb[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu Jun 6 17:13:02 2024 -0400
+
+    contents change for session 6
+
+[33mcommit 853107c93e394ef95ca4eddadc7e3edd2e267c2d[m
+Merge: 45bde28 3c5c30b
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Jun 4 17:40:13 2024 -0400
+
+    Merge branch 'UofT-DSI:main' into main
+
+[33mcommit 3c5c30b2f42c3dfe014a67eb75601fdfcea6e6c7[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Jun 4 17:39:54 2024 -0400
+
+    Contents changes for ASC session 5 (#53)
+
+[33mcommit 45bde2895acf4cc4cf64457f558bacc65b0a83ab[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Tue Jun 4 17:33:37 2024 -0400
+
+    contents change for session 5
+
+[33mcommit 99fcc3c2e8de2d2ab7103f5c7872d66a48b54ab1[m
+Merge: 845f0e1 4ec54a2
+Author: HX <xhonglei2007@gmail.com>
+Date:   Mon Jun 3 21:49:27 2024 -0400
+
+    Merge branch 'UofT-DSI:main' into main
+
+[33mcommit 4ec54a2a150ec78e98ebe1e969dc76f04adf7773[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Mon Jun 3 21:48:00 2024 -0400
+
+    Make changes for ASC session 4 (#52)
+
+[33mcommit 845f0e10df76ccc9e5664c12045fa6f84a426df7[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Mon Jun 3 21:46:24 2024 -0400
+
+    make changes for session 4
+
+[33mcommit 3ff6c2e643a1b6fad2bce4b0990f1dee675919a0[m
+Merge: 25e8199 738529a
+Author: HX <xhonglei2007@gmail.com>
+Date:   Wed May 29 17:17:27 2024 -0400
+
+    Merge branch 'UofT-DSI:main' into main
+
+[33mcommit 738529a22f2c5e3e98be19f5dcf493a9ef172f46[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Wed May 29 17:16:40 2024 -0400
+
+    added additional materials (#44)
+
+[33mcommit 25e8199cfcb5f705deebbe026b6591a448cb6f35[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Wed May 29 17:15:25 2024 -0400
+
+    added additional materials
+
+[33mcommit eaa28249422e20aa96c4945c6171f1060a711b57[m
+Merge: ad11442 fa583d4
+Author: HX <xhonglei2007@gmail.com>
+Date:   Mon May 27 10:34:57 2024 -0400
+
+    Merge pull request #42 from UofT-DSI/exercise_1
+    
+    Reflection piece
+
+[33mcommit fa583d470e43d5b146f229075d463bf35d6c0fa0[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon May 27 09:57:51 2024 -0400
+
+    Add the markdown section back in to include a reflection piece, highlighting the achievements and importance of the regression exercise.
+
+[33mcommit ad114424285638d68a0a612d2d83d621c037c7c0[m
+Merge: 71d1782 a43785d
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon May 27 09:29:09 2024 -0400
+
+    Merge pull request #41 from HongleiXie/main
+    
+    Improve contents
+
+[33mcommit a43785d7ac2bb3efc2d2b80e059bb4a45385579b[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sun May 26 22:40:51 2024 -0400
+
+    added live coding
+
+[33mcommit 54168085be36c86925fa194cf4a42330b585add9[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sun May 26 21:15:28 2024 -0400
+
+    removed duplicated contents from lec 2
+
+[33mcommit 629918ef0f4abf4f87ddbffa2a17b39a6349f65e[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sun May 26 20:36:39 2024 -0400
+
+    bug fixing in exercise 1
+
+[33mcommit 7b667e330a68fdd16c673ce08238d3971e9281a5[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sun May 26 18:15:52 2024 -0400
+
+    save work
+
+[33mcommit cc0a83923f1de33ec8532f411b51cdd37e1dde62[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Sat May 25 23:05:42 2024 -0400
+
+    rerun slides generation
+
+[33mcommit e4b50643f64debc25a2c0fc3e55f2c7a6c010dfe[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Fri May 24 16:27:34 2024 -0400
+
+    update gitignore
+
+[33mcommit 19e94af5536ff3c2416b7d4c25c480245000b95e[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Fri May 24 16:07:17 2024 -0400
+
+    update names
+
+[33mcommit 71d1782776aea58a667cfddc2453cd5b7585a98e[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri May 24 10:47:27 2024 -0400
+
+    Updating the "note" message of the exercise.
+
+[33mcommit d9b30d2f7e2bcf556a57bbe518c2f3d57482703c[m
+Merge: e0d161b 210dba4
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Fri May 24 10:44:12 2024 -0400
+
+    Merge pull request #40 from HongleiXie/update-readme
+    
+    Update README
+
+[33mcommit 210dba4f66192663514eb1a70e269e1b656ba01d[m
+Author: HX <xhonglei2007@gmail.com>
+Date:   Thu May 23 22:30:05 2024 -0400
+
+    update readme
+
+[33mcommit e0d161bb19da88d5e146845154721133bd9368b5[m
+Merge: d18520c a4ae047
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Thu May 23 13:50:35 2024 -0400
+
+    Merge pull request #38 from UofT-DSI/exercise_1
+    
+    Exercise 1 - Introduction to ASC
+
+[33mcommit a4ae0470a868f496225f3a9cbe00dcc162f23347[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 23 13:48:37 2024 -0400
+
+    Decision was made to go with a one file design. Deleting two file design.
+
+[33mcommit e16eed2985bd6ee9dd6df57bed4d80011cd9db0b[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 23 13:27:01 2024 -0400
+
+    removed redundant helper function.
+
+[33mcommit 0ad59c2afff8a4265353a7ca34b82c90ff7d8541[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 23 13:24:21 2024 -0400
+
+    Two options for the exercise, one with a helper file and a cleaner notebook, and one that is just one notebook.
+
+[33mcommit d18520c31100bf86ef4a6c5d3f2f51286a8584ae[m
+Merge: a947a64 a83c437
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed May 22 09:10:44 2024 -0400
+
+    Merge pull request #39 from UofT-DSI/RohanAlexander-patch-1
+    
+    Update 1_statistical_learning.md
+
+[33mcommit a83c4370fa5c21b493c3cdf6210efdc7586dd75b[m
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Tue May 21 16:51:32 2024 -0400
+
+    Update 1_statistical_learning.md
+
+[33mcommit 3638f77cce9795042c08d3b5e57223995bba1a66[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue May 21 16:09:10 2024 -0400
+
+    sepertaing out the two versions
+
+[33mcommit 92504795c448bc0ed07725a04375cdcdf32d31d4[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue May 21 13:45:39 2024 -0400
+
+    made some changes towards a one file design, also hid two cells, does it work?
+
+[33mcommit 6ff47849ef9f41eedc776585a8ca244b9dba1fb7[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 16 14:35:34 2024 -0400
+
+    Changing the notebook title
+
+[33mcommit faba0c38373220a17f6c30c60993028efa74bbbc[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 16 14:30:55 2024 -0400
+
+    Small grammatical error fix
+
+[33mcommit 15e6f503eeb68c071794f57ad17bd24ddd1ed116[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu May 16 14:19:35 2024 -0400
+
+    Exercise 1 - Introduction to ASC
+
+[33mcommit a947a64d0d03dce67098f8c379d0c02e92280c1e[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed May 15 09:27:31 2024 -0400
+
+    Update README.md
+
+[33mcommit 420054bad7efb5d8ad67a43c0930b4b4e958f1d9[m
+Merge: c91b83d 2ee79c2
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Tue May 14 17:16:49 2024 -0400
+
+    Merge pull request #37 from UofT-DSI/curtissfnorman-patch-1
+    
+    Update README.md
+
+[33mcommit 2ee79c24d303d99dac40a21493a21d5d427219e1[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Tue May 14 16:47:46 2024 -0400
+
+    Update README.md
+    
+    Added prescriptive instructions on how to review exercises and homework in the live learning sessions and work periods.
+
+[33mcommit c91b83d60804bccccbb1998e3d45109c56c125ff[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon May 13 16:22:32 2024 -0400
+
+    updating generate_slides and moving extra material out of the markdown folder.
+
+[33mcommit 23155e87fbda99fdff0313dc55664c1095162496[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon May 13 16:18:36 2024 -0400
+
+    updating generate_slides.sh
+
+[33mcommit 9a3dc1277a30e4b7fc4a9221c06b8cf27e64aab7[m
+Merge: 54a5b97 4d9f3d8
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Mon May 13 15:48:30 2024 -0400
+
+    Merge pull request #36 from UofT-DSI/curtissfnorman-patch-1
+    
+    Update 1_statistical_learning.md
+
+[33mcommit 4d9f3d88d68e7a32a8f1abe342106b14ae0af8aa[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon May 13 15:42:12 2024 -0400
+
+    Update 1_statistical_learning.md
+
+[33mcommit 54a5b97395115e62ae4aceda1bbe3ed68f314137[m
+Merge: dd916eb e43388c
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon May 13 15:14:05 2024 -0400
+
+    Merge pull request #35 from UofT-DSI/RohanAlexander-patch-1
+    
+    Update 1_statistical_learning.md
+
+[33mcommit e43388c2c1e397b01d2931f11803811f4cba129f[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon May 13 15:13:07 2024 -0400
+
+    Update 1_statistical_learning.md
+
+[33mcommit cbdc3b9874085d08026d9fc8c524813a750c2434[m
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Mon May 13 15:03:39 2024 -0400
+
+    Update 1_statistical_learning.md
+
+[33mcommit dd916eb949bd01365d32697a3a1c2f82a4500512[m
+Merge: 5443ce4 64ab06c
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Mon May 13 14:28:16 2024 -0400
+
+    Merge pull request #34 from UofT-DSI/curtissfnorman-patch-1
+    
+    Update 1_statistical_learning.md
+
+[33mcommit 64ab06c2c8cc8736f37018b1fb5a2ae780d844f1[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon May 13 14:27:20 2024 -0400
+
+    Update 1_statistical_learning.md
+
+[33mcommit 5443ce4660724958ff2df1e7c148ee95393c8e37[m
+Merge: c8496d3 7714b2a
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Mon May 13 13:38:07 2024 -0400
+
+    Merge pull request #33 from UofT-DSI/curtissfnorman-patch-1
+    
+    Update 1_statistical_learning.md
+
+[33mcommit 7714b2abdff385c49592506e01b234764ef4a4d7[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon May 13 11:33:15 2024 -0400
+
+    Update 1_statistical_learning.md
+    
+    Updated slides for session 1
+
+[33mcommit c8496d384e1f36d97ba35d0994adfd3f54496b21[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri May 3 16:26:35 2024 -0400
+
+    Making live_code snake cased.
+
+[33mcommit e255efd41beff543f16d2f02ed57ab3efc80bfcd[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 15:13:44 2024 -0400
+
+    Fixing Broken Links
+
+[33mcommit 353e382fdcd44dfe8c464fb792aad45577a4564d[m
+Merge: 7163053 5e5057f
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 14:49:37 2024 -0400
+
+    Merge branch 'main' of https://github.com/UofT-DSI/applied_statistical_concepts
+
+[33mcommit 7163053d42bbeb35621ae95e0f96a2d3f38b3dc1[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 14:47:31 2024 -0400
+
+    Fixing broken notebook syntax.
+
+[33mcommit 5e5057f62bd63d5d71093213f9fe18f393e1ec62[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 14:47:31 2024 -0400
+
+    Fixing broken notebook syntax.
+
+[33mcommit fbdf7735cb36870bca697c6794f06315e70e9881[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 10:37:48 2024 -0400
+
+    Updating Submission Information markdown syntax
+
+[33mcommit a49f331529219f6de8eaa90003d2459f281b76f2[m
+Merge: 277981c e383673
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 10:27:44 2024 -0400
+
+    Merge branch 'main' of https://github.com/UofT-DSI/applied_statistical_concepts
+
+[33mcommit 277981c3c588f8e24222fee351d5537ae73d5cda[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed May 1 10:27:40 2024 -0400
+
+    Updating the Pull Request templates to remove mention of adding Learning Supports and Technical Facilitators as reviewer.
+
+[33mcommit e383673efcb78639dedc7f5bbc19e744fe8870c5[m
+Merge: 6f3232c 2a9cfd6
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed May 1 10:27:19 2024 -0400
+
+    Merge pull request #32 from UofT-DSI/moejennie-patch-1
+    
+    Update README.md
+
+[33mcommit 2a9cfd62eb41c111c5ee09bde69b9cca2e725893[m
+Author: moejennie <138157119+moejennie@users.noreply.github.com>
+Date:   Wed May 1 10:10:54 2024 -0400
+
+    Update README.md
+    
+    Updated ASC description grammar
+
+[33mcommit 6f3232c1ad7c750a2fd9d23348f0ef68298a2d81[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 30 16:35:47 2024 -0400
+
+    Updating repo so that resources and live coding go into the new "cohort_3" folder.
+
+[33mcommit 6e99d1016643c45f84d7f10fdecfcffaf2ed2a25[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 12:09:42 2024 -0400
+
+    Update README.md
+
+[33mcommit 2170847a08a6037602b28db5720367777b753d71[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 12:08:15 2024 -0400
+
+    Update README.md
+
+[33mcommit d2ccc7bcf6bc0b241fc8cf452204cefd0036e763[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 12:01:16 2024 -0400
+
+    Update assignment_3.ipynb
+
+[33mcommit fde3708d5085ec1d03904db027a0a7a9c0a3ccce[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 12:00:47 2024 -0400
+
+    Update assignment_2.ipynb
+
+[33mcommit 196ba9620c1f212a595a9195da3191e5894c5da9[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 11:59:40 2024 -0400
+
+    Update assignment_1.ipynb
+
+[33mcommit 01f530c8a1005f19a6b18a0518c323b5a133a4ad[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 11:36:27 2024 -0400
+
+    Update assignment_2.ipynb
+
+[33mcommit c4b82a71d8bdb77cf9a9f54fe005cec4dcc1b88b[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 11:36:02 2024 -0400
+
+    Update assignment_3.ipynb
+
+[33mcommit 0cb72354f2cb8eda4731424f76dd2fabe7a5d133[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 11:33:53 2024 -0400
+
+    Update assignment_2.ipynb
+
+[33mcommit efdc5706336644dda18b20f0909035aff490f1c0[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Wed Apr 24 11:30:48 2024 -0400
+
+    Update assignment_1.ipynb
+
+[33mcommit 41a8197559756e098fa07bf730d1370e9fef99c8[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Tue Apr 23 16:26:09 2024 -0400
+
+    Update README.md
+
+[33mcommit 6915c370702fde46827a3b849c5fbad51b75a3ab[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 12:37:14 2024 -0400
+
+    removing duplicate folder
+
+[33mcommit ed047d262f450f9dfc3c79276916b8d1478569d0[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 12:32:07 2024 -0400
+
+    renaming lessons/slides folder in the instructors folder to "markdown_slides"
+
+[33mcommit 44bcbce687a00940df27152a5a34ebad9e87c552[m
+Merge: 99dee99 eaad663
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Tue Apr 23 12:08:18 2024 -0400
+
+    Merge pull request #31 from UofT-DSI/miscellaneous
+    
+    Miscellaneous Tasks.
+
+[33mcommit eaad663b517004366a78b61fb901e90c7158575e[m
+Merge: abdf328 05e1304
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 12:06:53 2024 -0400
+
+    Merge branch 'miscellaneous' of https://github.com/UofT-DSI/applied_statistical_concepts into miscellaneous
+
+[33mcommit abdf3288c1dfc9d6639e1583dee9cb1abc8729c0[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 12:03:56 2024 -0400
+
+    reverting README text changes.
+
+[33mcommit 05e130457e706dfd11373ed1313f085e8b154789[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 12:03:56 2024 -0400
+
+    reverting README text changes.
+
+[33mcommit 341edf3df40c5d07f627b9ffa6195249e91d86b0[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 10:54:19 2024 -0400
+
+    Updating the README so that the links work.
+
+[33mcommit 71a1d8c40c335f203a03ffd69a5fe5a46240219c[m
+Merge: f2a5b1d 99dee99
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 10:01:49 2024 -0400
+
+    Merge branch 'main' into miscellaneous.
+
+[33mcommit f2a5b1dbc6fb98cb383140c5ad0343bb2641f01f[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 23 09:54:05 2024 -0400
+
+    Miscellaneous tasks.
+
+[33mcommit 99dee99058e56da4349f8653042269653f61a423[m
+Merge: 67049b0 14e870f
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Mon Apr 22 15:41:42 2024 -0400
+
+    Merge pull request #30 from UofT-DSI/curtissfnorman-patch-1
+    
+    Update README.md
+
+[33mcommit 14e870f70631a1ad26232bc762eb60b2af0bb5fd[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Mon Apr 22 15:33:27 2024 -0400
+
+    Update README.md
+
+[33mcommit 3f73399cba4e5945952bca4f0921ab907fd0c742[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 22 11:56:18 2024 -0400
+
+    Miscellaneous tasks.
+
+[33mcommit 67049b001db83244df35a0eb5c99f0ffe383f387[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri Apr 19 16:13:28 2024 -0400
+
+    Made changes to correct the links.
+
+[33mcommit ffcc996e637d62b3833b469c2682f4f099a72a3f[m
+Author: curtissfnorman <151059094+curtissfnorman@users.noreply.github.com>
+Date:   Fri Apr 19 15:31:27 2024 -0400
+
+    Update README.md
+
+[33mcommit f427af6c62b0c90f6425a4989c0c2b0da56924ca[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 9 17:01:44 2024 -0400
+
+    Removing Policies.
+
+[33mcommit 3d617d3a416df57a9e9f82027f0ab6eb146bb4a3[m
+Merge: 0bc3439 a541620
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Apr 9 09:57:15 2024 -0400
+
+    Merge pull request #29 from UofT-DSI/RohanAlexander-patch-1
+    
+    Update README.md
+
+[33mcommit a541620535c35ec8231bc2bc8ff5e482f84241e1[m
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Tue Apr 9 09:47:04 2024 -0400
+
+    Update README.md
+
+[33mcommit 0bc343979c732c8d6d367361ee7fb16844a233da[m
+Merge: fa56d23 e7fcaaa
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 23:02:07 2024 -0400
+
+    Merge pull request #21 from UofT-DSI/new-changes
+    
+    New changes
+
+[33mcommit e7fcaaa7944172ce79df673e3a48c67099a4572d[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 23:00:51 2024 -0400
+
+    removing dev tools
+
+[33mcommit 31a093e30c1f5e334e248cefd7ab59089ce139be[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 22:58:28 2024 -0400
+
+    removing requirements
+
+[33mcommit 85bab79986b8ffe608b04ffef228453bd77811d5[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 22:57:22 2024 -0400
+
+    Changing Terminology.
+
+[33mcommit 429c219fac9e90010d99d433b23959e7a71cb797[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 22:54:49 2024 -0400
+
+    numbering images
+
+[33mcommit d70b01b4de57166b5a34b669a2b679a46177fe83[m
+Merge: a7de434 97df2b9
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 22:10:02 2024 -0400
+
+    Merge pull request #28 from vishnouvina/new-changes
+    
+    Changed and fixed content of extra assignment
+
+[33mcommit 97df2b9bd798a47008378b6d3f57cd94a1f0c810[m
+Author: Vishnou Vinayagame <106386360+vishnouvina@users.noreply.github.com>
+Date:   Mon Apr 1 17:15:37 2024 -0400
+
+    Add files via upload
+
+[33mcommit 0a1be805c2379826425a2faa82b68f3ccaf84f46[m
+Author: Vishnou Vinayagame <106386360+vishnouvina@users.noreply.github.com>
+Date:   Mon Apr 1 23:14:09 2024 +0200
+
+    Delete 06_additional_resources/02_assignments/extra_assignment.ipynb
+
+[33mcommit a7de434e5881b1329be6a37b5f4284516fe5cfcd[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 15:15:55 2024 -0400
+
+    Polishing up the Repo
+
+[33mcommit 28de2a57095d1b17232408b4b4390b66891b760a[m
+Merge: 9c2dc23 db79376
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Apr 1 14:52:56 2024 -0400
+
+    Merge pull request #27 from UofT-DSI/snake_case
+    
+    Snake case
+
+[33mcommit db79376942737bc7740dc3341069ebc987f95f21[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Fri Mar 29 11:16:14 2024 -0400
+
+    Replacing dashes with underscores
+
+[33mcommit 9c2dc23594d59ab1180cc753d99074012e62dc12[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Thu Mar 28 17:22:54 2024 -0400
+
+    Updating the ask for help image
+
+[33mcommit 7a48dcc738ae58db514058967915cb0faa9a4304[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Thu Mar 28 16:26:08 2024 -0400
+
+    Adding certification to word rather than program
+
+[33mcommit 5e9c68502848cfca7d38f9ada6d28af679816553[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Thu Mar 28 13:49:39 2024 -0400
+
+    Changing TA to Learning Suport Staff
+
+[33mcommit 155457183f7062f337cbb41132a2e65cb563a541[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Thu Mar 28 11:58:43 2024 -0400
+
+    Fixing assignments and an exercise
+
+[33mcommit 63ed354cca34409d930a5524701209bb252e6964[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Wed Mar 27 10:50:39 2024 -0400
+
+    Rebased with main
+
+[33mcommit 86c96b77264b312f1e13a7a9d6e9212122cc1696[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Wed Mar 27 10:33:46 2024 -0400
+
+    Updating README
+
+[33mcommit 51613c9ea30f1196a7e10c6e0c0d06c8c2c86962[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Mon Mar 25 14:39:08 2024 -0400
+
+    Replacing course with module
+
+[33mcommit 191b6660550438352f2bd3b012eb6e45af0a1681[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Wed Mar 20 11:34:16 2024 -0400
+
+    Updating the assignments with a rubric
+
+[33mcommit b6751e08ab6775c4d1a98559789ab1e028d29d16[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Tue Mar 19 16:54:11 2024 -0400
+
+    Moved extra resources and deleted unused lesson plans
+
+[33mcommit 96f3cf4aba5320077733163feb24308d5ea739e2[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Tue Mar 19 14:28:14 2024 -0400
+
+    Adding in the new changes based on my discussion with Rohan
+
+[33mcommit bce459968e32db01631c3e3165b272daa492b925[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Wed Mar 13 16:17:40 2024 -0400
+
+    Updating README
+
+[33mcommit a4f4341aae670ee84a1478cb411c76105c021bcb[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Wed Mar 13 15:45:32 2024 -0400
+
+    Updating the READMEs and assignments
+
+[33mcommit 945edd1350c0afef43e7179d7439b559a7e02a03[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Mon Mar 11 13:54:29 2024 -0400
+
+    Updating the slides not to use R
+
+[33mcommit a927df963d820fd840a06a1a0d2bedec3c1b630d[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Mon Mar 11 09:18:24 2024 -0400
+
+    Updating the instructor readme
+
+[33mcommit ea871d41fa0ed51e179977e53ae62a09de6c83de[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Fri Mar 8 17:02:49 2024 -0500
+
+    Updating README
+
+[33mcommit aee034af6974da37b3aafb9ca716bf4a17e86204[m
+Author: rchung95 <raymond.chung24@outlook.com>
+Date:   Fri Mar 8 13:43:00 2024 -0500
+
+    Making changes to the README
+
+[33mcommit fa56d233f986d5f64169c26bfc45c151738e2ed3[m
+Merge: 943a761 d10d087
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Fri Mar 22 12:50:21 2024 -0400
+
+    Merge pull request #26 from vishnouvina/main
+    
+    Added HW3 and HW4 and A1 answers
+
+[33mcommit d10d0879ef84bd25747c6b55e0b4ab165301b2c3[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Wed Mar 20 00:30:26 2024 -0400
+
+    Added HW3 and HW4 and A1 answers
+
+[33mcommit 943a761971fd6f1e6e4e56e42f903cf827562ca8[m
+Merge: 0986c03 6730e91
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Mar 19 13:53:27 2024 -0400
+
+    Merge pull request #25 from vishnouvina/patch-1
+    
+    Update README.md
+
+[33mcommit 6730e918b31f2330fba088208067975a497d407f[m
+Author: Vishnou Vinayagame <106386360+vishnouvina@users.noreply.github.com>
+Date:   Tue Mar 19 00:11:02 2024 -0400
+
+    Update README.md
+    
+    Changed grading scale as A3 has been made optional, corrected typoi (name was there twice), pushed back a deadline.
+
+[33mcommit 0986c03b97b316bfa8838329e1ed82e6ecaf67d3[m
+Merge: 42d7425 caf7be4
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Mon Mar 18 15:25:15 2024 -0400
+
+    Merge pull request #24 from vishnouvina/moved_q4_a1_a2
+    
+    moved Q4 from A1 to A2 because of time constraints
+
+[33mcommit caf7be495a28b95b8913769f5680723d489dd483[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Mon Mar 18 10:26:58 2024 -0400
+
+    corrected typo in A1, added HW2 answers
+
+[33mcommit 0427078d9f4c18cf99976c48dbbd33ada523a514[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Sun Mar 17 15:34:33 2024 -0400
+
+    removed useless misleading sentence in A2 handout
+
+[33mcommit e485dc7c7d13fa3c1b50e5ddc6f343b070a2fc1c[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Sun Mar 17 11:15:37 2024 -0400
+
+    moved Q4 from A1 to A2 because of time constraints
+
+[33mcommit 42d74250e7e1ac690a9687abf26617d5c533044c[m
+Merge: 2c1ef19 6d4c7b6
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Fri Mar 15 15:35:56 2024 -0400
+
+    Merge pull request #23 from vishnouvina/small_changes
+    
+    Small changes
+
+[33mcommit 6d4c7b6c9264f7f0c20d47d7e59e7173178d7391[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Fri Mar 15 15:33:17 2024 -0400
+
+    removed useless cell
+
+[33mcommit f2d95f7b15744a670e3280419ddddc5c79dbd8bc[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Fri Mar 15 14:42:19 2024 -0400
+
+    fixed typos
+
+[33mcommit 72fb6beafe42d8557830d69778ebce71001d161b[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Fri Mar 15 14:40:34 2024 -0400
+
+    added HW 1 answers, fixed typos, added names/mails
+
+[33mcommit 2c1ef19c70a92e63fcceea2ffe5f4c6e03bc7d97[m
+Merge: 4367f87 d5bdae2
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Fri Mar 15 11:45:36 2024 -0400
+
+    Merge pull request #22 from UofT-DSI/a1
+    
+    updated A2 questions
+
+[33mcommit d5bdae20116cf3b85f016df05bba468cda5fad02[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Thu Mar 14 15:00:53 2024 -0400
+
+    updated A2 questions
+
+[33mcommit 4367f87f47f54fc856c1d22426172d7202af9207[m
+Merge: ce82d59 fc9498e
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 21:42:43 2024 -0500
+
+    Merge pull request #20 from vishnouvina/readme_folder_fixes
+    
+    Removed code from class, small changes in readme/A1-3
+
+[33mcommit fc9498e45bce85502ddae79b5186472e93652ff6[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Thu Mar 7 21:29:01 2024 -0500
+
+    Removed code from class, small changes in readme/A1-3
+
+[33mcommit ce82d59cc068e3cee307ff0fb18f4368931be89e[m
+Merge: abd9082 dc9634c
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:31:19 2024 -0500
+
+    Merge pull request #15 from UofT-DSI/omittingR
+    
+    The removal of R files and folder structure from the repo
+
+[33mcommit dc9634cb746917fca16454b89ca467a6c9fac3a4[m
+Merge: 4613e33 4d13cf6
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:29:26 2024 -0500
+
+    Merge branch 'omittingR' of https://github.com/UofT-DSI/estimation_machine_learning_testing into omittingR
+
+[33mcommit 4613e33a983d0b6119f11c5fc8f401c1d8038dec[m
+Merge: df8bad2 88c8500
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:26:21 2024 -0500
+
+    Merge branch 'omittingR' of https://github.com/UofT-DSI/estimation_machine_learning_testing into omittingR
+
+[33mcommit 4d13cf6a5417230a2d6e2dc79d1b1ab682d0c522[m
+Merge: df8bad2 88c8500
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:26:21 2024 -0500
+
+    Merge branch 'omittingR' of https://github.com/UofT-DSI/estimation_machine_learning_testing into omittingR
+
+[33mcommit df8bad233e07cfb3647095cddf0b6cab43b73f2d[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:25:02 2024 -0500
+
+    update gitignore.
+
+[33mcommit 88c8500549f64b6c2aead694f51d72a6f6d9a552[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:25:02 2024 -0500
+
+    update gitignore.
+
+[33mcommit eaf6d80c9495c83fc4cd68fd5469474f7d65ba64[m
+Merge: dde8269 16ad582
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:23:49 2024 -0500
+
+    Merge branch 'omittingR' of https://github.com/UofT-DSI/estimation_machine_learning_testing into omittingR
+
+[33mcommit dde826999b0c60e3081d850f2450b86c8d743fa0[m
+Merge: 224524e abd9082
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:14:10 2024 -0500
+
+    Merge branch 'main' into omittingR
+
+[33mcommit 16ad582f19b1921ad7d2ea5d2c8da0d88f040e8b[m
+Merge: 224524e abd9082
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:14:10 2024 -0500
+
+    Merge branch 'main' into omittingR
+
+[33mcommit 224524e7456de2f0f3bb8badd26c1d6910efac04[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 17:10:45 2024 -0500
+
+    Changed all old qmds to md files, and updated their relative pdf files.
+
+[33mcommit 62ba7236acb058e0cfa1eea016ea807ea8c39471[m
+Merge: be90d59 50c7327
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Thu Mar 7 16:21:04 2024 -0500
+
+    Merge pull request #19 from vishnouvina/omittingR
+    
+    Added requirements.txt, fixed few bugs in exo6.2
+
+[33mcommit 50c73270898317a8077833cf40c18198d0a4dfba[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Thu Mar 7 16:10:12 2024 -0500
+
+    Added requirements.txt, fixed few bugs in exo6.2
+
+[33mcommit be90d59aac1435e63c60a82e0776c1bf897e2b01[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 16:59:40 2024 -0500
+
+    Convertting lesson plans from word doc to md
+
+[33mcommit 73683b2fd946788f572cf36cc9069b163c8bff23[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 16:59:40 2024 -0500
+
+    Convertting lesson plans from word doc to md
+
+[33mcommit 1270e6c672449dbdbebf0c8b8828b9d745c48bd9[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 14:21:31 2024 -0500
+
+    Removed Answer folder.
+
+[33mcommit 5e1c1f849816586e5dc7904ab864d56b7c85e6df[m
+Merge: 0e0aec4 a80e970
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 14:09:38 2024 -0500
+
+    Merge pull request #18 from vishnouvina/omittingR
+    
+    cleaned up HW folder
+
+[33mcommit a80e970342c974fae0ffac09a171e4ed070d4b35[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Wed Mar 6 14:05:31 2024 -0500
+
+    cleaned up HW folder
+
+[33mcommit 0e0aec4e8831bd382e3cfb6874b66687ff7e58be[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 12:41:09 2024 -0500
+
+    removing outputs of all jupyter notebooks, while also minor tweaks here and there. Making sure files are runnable.
+
+[33mcommit abd9082787156b4bb208ff383d139af8c1d91ad0[m
+Merge: d3f1fe9 c12a2ef
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Wed Mar 6 10:44:58 2024 -0500
+
+    Merge pull request #17 from vishnouvina/patch-1
+    
+    Update README.md
+
+[33mcommit c12a2ef962da3037641cc3d74545b94806d4d495[m
+Author: Vishnou Vinayagame <106386360+vishnouvina@users.noreply.github.com>
+Date:   Tue Mar 5 16:42:28 2024 -0500
+
+    Update README.md
+    
+    Updated schedule, dates and deadlines, changed grading scheme (from 7 homeworks to 5 homeworks given the new schedule and the reduction of the technical content), updated course instructor and course support names in ReadME, updated the To-Do list in the README
+
+[33mcommit d3f1fe9088453cf4255c2bb1a1367921020687b2[m
+Merge: bb6d355 f15a6db
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Mar 5 10:54:00 2024 -0500
+
+    Merge pull request #16 from vishnouvina/A1_cleanup
+    
+    Fixed EMT Assignment 1
+
+[33mcommit bb6d35529b5ad47aaf3b0f6d36044b756f4bec68[m
+Merge: 6ab1c06 7a24550
+Author: Daniel Razavi <daniel.razavi@utoronto.ca>
+Date:   Tue Mar 5 09:17:38 2024 -0500
+
+    Merge pull request #14 from UofT-DSI/review_session_materials
+    
+    Review Session Material Added in.
+
+[33mcommit f15a6db0bb6a0fa1d802b750f25510f2c301330c[m
+Author: Vishnou Vinayagame <vishnou.vinayagame@student-cs.fr>
+Date:   Mon Mar 4 21:20:18 2024 -0500
+
+    Fixed EMT Assignment 1
+
+[33mcommit 6575a90ea8d6a3e6459a2e63c593e242e6794d50[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Feb 28 14:20:33 2024 -0500
+
+    The removal of R files and folder structure from the repo (minus code from class as that looks like its missing)
+
+[33mcommit 7a245508c105b1f27daa6243f078dde98ec49fa3[m
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Feb 26 15:45:33 2024 -0500
+
+    Review Session Material Added in.
+
+[33mcommit 6ab1c06b387bc04abff512eafbbca22f8a38a935[m
+Merge: a165516 e0667af
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Mon Jan 29 13:53:13 2024 -0500
+
+    Merge pull request #13 from UofT-DSI/ananyajha2000-patch-1
+    
+    Updated README.md
+
+[33mcommit e0667af41ef123379d77168c8a750ea13c618637[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Mon Jan 22 20:47:11 2024 -0500
+
+    Updated README.md
+
+[33mcommit a1655164531fe81bf5c0fec85a9bf9e457ebf466[m
+Merge: a83e2d6 e22c82f
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Fri Jan 19 11:28:55 2024 -0500
+
+    Merge pull request #12 from ananyajha2000/ananya_branch1
+    
+    Ananya branch1
+
+[33mcommit e22c82ff3fc0fc82cc59d05d9ff9ceb3faded879[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Thu Jan 18 19:58:21 2024 -0500
+
+    fixed code
+
+[33mcommit bd7a33fdb5f98028d85eadd1c82859c599c35b6b[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Thu Jan 18 19:55:42 2024 -0500
+
+    fixed most code
+
+[33mcommit 629fbf8a3d6e490df17710dc8eeb7db7b76d30d5[m
+Merge: 6d72173 cad5f73
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Thu Jan 18 15:08:23 2024 -0500
+
+    combine
+    :wq
+    Merge remote-tracking branch 'origin/main' into ananya_branch1
+
+[33mcommit a83e2d6c67c93e2093d47fbec1f628303573531d[m
+Merge: ba68082 4f95291
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Wed Jan 17 23:47:32 2024 -0500
+
+    Merge pull request #11 from UofT-DSI/ananyajha2000-patch-1
+    
+    Update README.md
+
+[33mcommit ba68082b229b97bc3a9f93b875dcf15fdeab7b86[m
+Merge: 13b6042 3b0ed2f
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Wed Jan 17 20:45:09 2024 -0500
+
+    Merge pull request #10 from ananyajha2000/ananya_branch1
+    
+    Ananya branch1
+
+[33mcommit 6d72173fdf4b38f3c19662590fd8e1e2c02af667[m
+Merge: ddddf65 3b0ed2f
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Wed Jan 17 00:55:09 2024 -0500
+
+    comminting
+    Merge branch 'ananya_branch1' of https://github.com/ananyajha2000/estimation_machine_learning_testing into ananya_branch1
+
+[33mcommit 4f9529129dfd3480bfd8aded191e9cb01cd4703d[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Wed Jan 17 00:30:45 2024 -0500
+
+    Update README.md
+
+[33mcommit ddddf65485d6a906f3be344b1534dd67815e0b5d[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Tue Jan 16 19:25:36 2024 -0500
+
+    names fixed for slides
+
+[33mcommit 3b0ed2fa76040e23ad49f1c4a4dbfa0cca763ac7[m
+Merge: 86a733d 13b6042
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Tue Jan 16 19:23:10 2024 -0500
+
+    Merge pull request #1 from UofT-DSI/main
+    
+    Merge pull request #9 from ananyajha2000/ananya_branch1
+
+[33mcommit 86a733da83029c4f5d7b0f821680120b2554c31a[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Tue Jan 16 19:18:39 2024 -0500
+
+    renamed
+
+[33mcommit 13b60421194886fc13dc89242f87f26450b125c7[m
+Merge: e9c3c63 8217ed6
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 19:11:34 2024 -0500
+
+    Merge pull request #9 from ananyajha2000/ananya_branch1
+    
+    removed files
+
+[33mcommit 8217ed65b79b492d326a764b0fac44f3ba6358c8[m
+Author: ananyajha2000 <ananya.jha@mail.utoronto.ca>
+Date:   Tue Jan 16 19:04:04 2024 -0500
+
+    removed files
+
+[33mcommit e9c3c634e9a15e8a238d2d5ad07c372234b3b564[m
+Merge: 011fd1d ab9a665
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 18:01:41 2024 -0500
+
+    Merge pull request #8 from UofT-DSI/ananyajha2000-patch-6
+    
+    Uploaded updated pdfs
+
+[33mcommit 011fd1dd5c598218d7c42893cbf1f7d2d5fd7dad[m
+Merge: f3c83e4 456d9aa
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 17:53:42 2024 -0500
+
+    Merge pull request #7 from UofT-DSI/ananyajha2000-patch-5
+    
+    Updated README.md
+
+[33mcommit ab9a665a6750bc134c7cc6b42e05ab402bbb0d39[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Tue Jan 16 17:10:49 2024 -0500
+
+    Uploaded updated pdfs
+
+[33mcommit 456d9aa635d3c14700fe4e9949bfa4bd6c7969cc[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Tue Jan 16 16:59:43 2024 -0500
+
+    Updated README.md
+
+[33mcommit f3c83e4ad2e639f04fd4338e3f2fe3aa4181254d[m
+Merge: 4f56b28 5a6c1c2
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 14:48:42 2024 -0500
+
+    Merge pull request #4 from UofT-DSI/ananyajha2000-patch-3
+    
+    Updated homeworks
+
+[33mcommit 4f56b28bd6f29ab82383eb184812ff868d177c70[m
+Merge: 2c3ff58 ea792ff
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 14:47:27 2024 -0500
+
+    Merge pull request #5 from UofT-DSI/ananyajha2000-patch-2-1
+    
+    Updated README.md
+
+[33mcommit 2c3ff5818387ba6413f74d2dc3b52c1d00eb2c23[m
+Merge: af1ffcd f7d6dcd
+Author: Daniel R <daniel.razavi@utoronto.ca>
+Date:   Tue Jan 16 14:46:19 2024 -0500
+
+    Merge pull request #3 from UofT-DSI/ananyajha2000-patch-1
+    
+    updated slides
+
+[33mcommit ea792ff66e5ce2f9cf309c7d58d6fdd408214a69[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Mon Jan 15 22:47:35 2024 -0500
+
+    Updated README.md
+
+[33mcommit 5a6c1c21391357dfc4a88fb87e603fedd2c8b2e3[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Mon Jan 15 21:59:50 2024 -0500
+
+    Updated homeworks
+
+[33mcommit f7d6dcd89f7dfec1d8106afeb92eb43df9b3f397[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Mon Jan 15 21:51:31 2024 -0500
+
+    Add files via upload
+
+[33mcommit cad5f733c887061fdd8f8343fef86c6d20f9b75d[m
+Author: ananyajha2000 <85378205+ananyajha2000@users.noreply.github.com>
+Date:   Mon Jan 15 21:47:06 2024 -0500
+
+    Add files via upload
+
+[33mcommit af1ffcdf2394e40ffa104b4db0cc06012969d504[m
+Merge: cc280e5 f57c47d
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Fri Dec 1 15:59:31 2023 -0500
+
+    Merge pull request #2 from RohanAlexander/main
+    
+    Update README.md
+
+[33mcommit f57c47dfaa8cb5411a7a525e9c04034b1aee4e39[m
+Author: Rohan Alexander <rohan.alexander@utoronto.ca>
+Date:   Fri Dec 1 13:45:19 2023 -0500
+
+    Update README.md
+
+[33mcommit cc280e54a96512153bff2d717e04111aa9be974f[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Wed Nov 29 14:51:24 2023 -0500
+
+    updates
+
+[33mcommit 4c2d7e0e5b1079b49cd4354144717ba3b7f4dac8[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Tue Nov 28 19:08:55 2023 -0500
+
+    updates
+
+[33mcommit 99b27739df955bf74c741b447b56c6712bc69dac[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Mon Nov 27 20:27:29 2023 -0500
+
+    updates
+
+[33mcommit 5980c33bd1c23d06415d43a22bcbc6adceb5611e[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Sat Nov 25 16:24:46 2023 -0500
+
+    homework
+
+[33mcommit d5bc08bff5de88a459116bd846f2b47db9c585e5[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Fri Nov 24 20:04:12 2023 -0500
+
+    homework
+
+[33mcommit 460b6756943c25c9502d5ef7d0d30665eb94b9a8[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Fri Nov 24 16:33:51 2023 -0500
+
+    re-organize
+
+[33mcommit 47f35e7a1d2d4ed1df306a31b6a3d4eaba289c56[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Fri Nov 24 16:20:55 2023 -0500
+
+    Update ReadMe
+
+[33mcommit 557f71ac988d4e70e7b5d86d27c5521c45311ce4[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Tue Nov 21 16:44:04 2023 -0500
+
+    re-organize lesson plans and exercises
+
+[33mcommit 0e19903d1fc174e253ba280f6d698768a6986877[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Thu Nov 2 15:39:09 2023 -0400
+
+    Begin to re-organize lesson plans
+
+[33mcommit 49081aebb9c10009254d828e0dca27a3c2a51630[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Thu Nov 2 15:33:34 2023 -0400
+
+    Update slides
+
+[33mcommit 6efd97cb4a283983e785b9ad8f9e83407ff77d33[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Thu Nov 2 14:47:57 2023 -0400
+
+    Update 6.3, 6.4 slides
+
+[33mcommit 0aac98ec4162fcdd570b078470bc8e500be48d51[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Thu Nov 2 14:29:39 2023 -0400
+
+    Update 6.2 slides
+
+[33mcommit 34249dce21d3373789289e8c4a9e513114fee013[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Thu Nov 2 14:14:57 2023 -0400
+
+    Update 6.1 slides
+
+[33mcommit 4fa00ea94a4a665250cf76e21126071fa8a85952[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Sat Oct 28 21:26:49 2023 -0400
+
+    Re-name and organize homework files
+
+[33mcommit 7b62710054b5921f4772f54c479c60e3b572765a[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Sat Oct 28 21:23:49 2023 -0400
+
+    Adding homework files
+
+[33mcommit dcbb7907cebebf9498fcdc36fc1a3f9f68b2e8ba[m
+Author: Inessa De Angelis <inessa.deangelis@mail.utoronto.ca>
+Date:   Sat Oct 28 21:20:00 2023 -0400
+
+    Re-organize homework folder
+
+[33mcommit 9af9ff82bb3bf55df1361df697dba90924fb9eb1[m
+Author: Inessa De Angelis <131813572+InessaDeAngelis@users.noreply.github.com>
+Date:   Wed Oct 25 16:50:47 2023 -0400
+
+    Update README.md
+
+[33mcommit 3cd160e23cc9f404469f331c4a80dd39204cc3db[m
+Author: Inessa De Angelis <131813572+InessaDeAngelis@users.noreply.github.com>
+Date:   Wed Oct 25 16:48:48 2023 -0400
+
+    Update README.md
+
+[33mcommit 3c70ae09931143c1ed20f0979a5d56726cf5bf7c[m
+Author: Inessa De Angelis <131813572+InessaDeAngelis@users.noreply.github.com>
+Date:   Wed Oct 25 16:47:13 2023 -0400
+
+    Update README.md
+
+[33mcommit b7440cc8e16e2c4e3508cae32b23ce1758c065af[m
+Merge: eba7f58 12c8875
+Author: Rohan Alexander <RohanAlexander@users.noreply.github.com>
+Date:   Tue May 2 20:16:48 2023 -0400
+
+    Merge pull request #1 from kunzhi-yu/main
+    
+    Refactor Slides Into Quarto
+
+[33mcommit 12c8875902f5ea8f08e111c53e8e2f361a4fda32[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Tue May 2 12:05:04 2023 -0400
+
+    proof reading
+
+[33mcommit 74434622bfa992f3eba35e4fcb842320c9364914[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Mon May 1 20:21:18 2023 -0400
+
+    edits to 6.10
+
+[33mcommit de15545157dc0a3595798a12c6b655f4e9bbc92d[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Mon May 1 20:20:36 2023 -0400
+
+    finish 6.10
+
+[33mcommit 838b9430f59b0eba579d917f27dbfe9b8764158c[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Sun Apr 30 11:43:42 2023 -0400
+
+    complete 6.9
+
+[33mcommit 085783d7ba698c9f4ccf5446a1a2e57607cadf07[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Sat Apr 29 11:00:15 2023 -0400
+
+    finish 6.8
+
+[33mcommit e8c11925483b89d7d9474613754d52c337c7c95e[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Fri Apr 28 14:49:54 2023 -0400
+
+    finish 6.7
+
+[33mcommit ffccd7f64b1f55282118d911d85b10f288613599[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Thu Apr 27 14:42:40 2023 -0400
+
+    finished 6.6
+
+[33mcommit b9c70920a5bd1dfd447682a6a3e76cd20b85a7e6[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Thu Apr 27 13:53:45 2023 -0400
+
+    finished 6.5
+
+[33mcommit e67fe8d137ad0b26412272362d48eb5b8cb429f1[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Thu Apr 13 15:45:09 2023 -0400
+
+    finish 6.2, fix errors into other units
+
+[33mcommit a6f67eee4354789b1f9a33466826b6489243b827[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Wed Apr 12 16:41:08 2023 -0400
+
+    complete 6.3
+
+[33mcommit 40de9c6200c88fe30ffb155a735228641ae4e2a2[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Tue Apr 11 23:23:37 2023 -0400
+
+    started 6.3
+
+[33mcommit bd91ca3391cc0f3bef3da8261b543cfcd46d0f7a[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Tue Apr 4 10:07:21 2023 -0400
+
+    finished 6.2
+
+[33mcommit 6dd2e5b23cba43cd648903c59b29e3ec5155ee42[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Mon Apr 3 23:55:40 2023 -0400
+
+    halfway through 6.2
+
+[33mcommit c959c569d586e3debffe18e0af6d912a6041c3ce[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Thu Mar 30 14:05:04 2023 -0400
+
+    finished 6.1 slides
+
+[33mcommit c6dfd04543663774603ee328a5734240aaf37fea[m
+Author: kunzhi-yu <yukunzhi@Hotmail.com>
+Date:   Mon Mar 27 15:21:27 2023 -0400
+
+    set up quarto
+
+[33mcommit eba7f587a2d325b74515ac3aba3b49795efb6bbe[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Mar 15 15:10:03 2023 -0400
+
+    Add files via upload
+
+[33mcommit c9062f45d8897fd612db6bd3590637ec26912d6c[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Mar 13 12:41:58 2023 -0400
+
+    Add files via upload
+
+[33mcommit 14c1476d8ee10241d3befa34f1a30b9f4551b96a[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sun Mar 12 11:45:54 2023 -0400
+
+    Add files via upload
+
+[33mcommit 5cb67227e562288d89a440b1643aedf61795aa69[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 12 09:17:32 2023 -0400
+
+    fix page
+
+[33mcommit d493cd0542f29ec4ee6e52b93ba2d5aa5de7f9d7[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 11 12:05:02 2023 -0500
+
+    homework class 9
+
+[33mcommit 8a34e21c02ec256019e414a118b39e48a3fd811e[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Mar 11 08:10:36 2023 -0500
+
+    Add files via upload
+
+[33mcommit 0db5563729a4d47152aa03c6e32ea7088f4153cc[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 11 07:23:01 2023 -0500
+
+    class 9 slides
+
+[33mcommit 88d165374a2575e523673212cd470984724a4e67[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 11 07:21:33 2023 -0500
+
+    class 9 slides
+
+[33mcommit a5a32b2799a8e89007c78440322e717d2db9a620[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 9 19:09:49 2023 -0500
+
+    Add files via upload
+
+[33mcommit aa688ac0953bc5e4e553194adf677825f4b42189[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Wed Mar 8 18:55:47 2023 -0500
+
+    Add files via upload
+
+[33mcommit 08a81b03384470d9a350643b1c6c2228a11554ee[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Wed Mar 8 09:51:39 2023 -0500
+
+    assignment 3
+
+[33mcommit 65d7218281c2621c18689a94bd1c95e3bd7882b3[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Tue Mar 7 20:19:57 2023 -0500
+
+    Add files via upload
+
+[33mcommit d826493747d4bbaa45db7d38917e5c0849742cb9[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Tue Mar 7 11:54:35 2023 -0500
+
+    code class 7
+
+[33mcommit 7623366e6bff2fc320ced9bd24720baa1f10180a[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Mar 6 23:12:25 2023 -0500
+
+    Add files via upload
+
+[33mcommit 8b44d520d75af7f43b9bfc7fc9a5090ed8aeab27[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Mar 6 20:49:16 2023 -0500
+
+    homework class 7
+
+[33mcommit 81502db5457797783dc5df12dddd6211b49afcab[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Mar 6 15:24:40 2023 -0500
+
+    class 7 slides
+
+[33mcommit 64c6c6e9ba023b2e35d3ca77c498582bd2d18f74[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Mar 6 11:21:47 2023 -0500
+
+    fix slides
+
+[33mcommit 1ec35bde7fa1dc5b7e0a8d2e860e5ee50cd221ae[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Mar 6 11:21:18 2023 -0500
+
+    fix slides
+
+[33mcommit 95ee77b24677bed3fee60b676e4c6217d5b085ab[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Mar 6 11:17:52 2023 -0500
+
+    code class 6
+
+[33mcommit 6457902428f2aa310ab77ae90ebbfcd60f18bef6[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 5 13:37:02 2023 -0500
+
+    update confusing wording re: bootstrap sd
+
+[33mcommit c125d3440fad174b467dc9ea19b4299db983e4ce[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 5 13:31:51 2023 -0500
+
+    Delete .Rhistory
+
+[33mcommit 422f352bcf9d9d67d7afa29a974bb32d5c0dad61[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 5 13:31:41 2023 -0500
+
+    move answer key assignment 1
+
+[33mcommit 63e8e0cf2e74253d2edb9e35a39781e191601de5[m
+Merge: 5ed5850 6153c89
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 5 13:29:32 2023 -0500
+
+    Merge branch 'main' of https://github.com/UofT-DSI/06-statistical_learning
+
+[33mcommit 5ed5850c8552fbe6c5b9759f34cf6e9ac5e48d04[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Mar 5 13:29:28 2023 -0500
+
+    correction Q2, part viii.
+
+[33mcommit 6153c89c3bb1aad228e6f556040d32c8b361bebb[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Mar 4 19:16:20 2023 -0500
+
+    Add files via upload
+
+[33mcommit 49b6d9e5926e5547b0a02386286b84c0aa53d7f8[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Mar 4 19:10:55 2023 -0500
+
+    Add files via upload
+
+[33mcommit b9debaa66530f95fd17f321e5e9058297fdf4abb[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Mar 4 19:10:22 2023 -0500
+
+    Add files via upload
+
+[33mcommit 610b576397ccfbe28557d509595f451177663c7f[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 4 16:34:36 2023 -0500
+
+    add homework 6
+
+[33mcommit cef2a316cdc2bdf49c0b05600717cd2f31385d41[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 4 07:40:21 2023 -0500
+
+    update class 6 slides
+
+[33mcommit 095db887fe77abc7f63ae735290c61564fdd5425[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Mar 4 07:39:30 2023 -0500
+
+    class 6 slides
+
+[33mcommit b917fe0f9ae75aacee8b75b9b0054b15f158763b[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Fri Mar 3 13:24:08 2023 -0500
+
+    add pts per question
+
+[33mcommit 56c96fcc4cb003ef757e55f7cff20a50e3d0bd0d[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Fri Mar 3 13:00:43 2023 -0500
+
+    upload code class 5
+
+[33mcommit b15c6106d0544badb4ff67d0325b89789c44a753[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Fri Mar 3 08:02:01 2023 -0500
+
+    update chapters covered
+
+[33mcommit 4d6237eb35d399c38b8616fe153a57f4da73a1d9[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Fri Mar 3 07:57:04 2023 -0500
+
+    add homework class 5
+
+[33mcommit 81b00be4285b9271719be630c4c3cf39e04de7e5[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 2 23:44:32 2023 -0500
+
+    Add files via upload
+
+[33mcommit 120c62376c15b236c24f8e38f320c25546dd29b1[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 2 23:44:16 2023 -0500
+
+    Delete DSI-06 Homework 4_ANSWERS.pdf
+
+[33mcommit a7865780e5ab9a047a962566d8ae91dd2762564a[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 2 23:43:45 2023 -0500
+
+    Add files via upload
+
+[33mcommit ede479cedc0e7b813a7e09a9022b57411f7c76cf[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 2 23:40:25 2023 -0500
+
+    Add files via upload
+
+[33mcommit dd32ea8aa9bc620ca47141c0c781c8341f49903b[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Mar 2 23:36:31 2023 -0500
+
+    Add files via upload
+
+[33mcommit 794055e114fe5f104a0b9c623ed50f79947f2f1f[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Mar 2 17:15:48 2023 -0500
+
+    add slides
+
+[33mcommit 08ac5fcb28555ff70366edea132c2be293599de5[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Mar 2 17:14:23 2023 -0500
+
+    class 5 slides
+
+[33mcommit c562712ccf339e59e02f5e98b78536ac8e93d1c9[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Wed Mar 1 08:46:58 2023 -0500
+
+    add Assignment 2
+
+[33mcommit de848422bc3c996665ccd89502fcc21d02413a83[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Feb 27 22:40:57 2023 -0500
+
+    Add files via upload
+
+[33mcommit 391b0b46fec4700b6d5d7bd91d316bd42411dff0[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 22:35:51 2023 -0500
+
+    add homework 4
+
+[33mcommit 4d1312031719200a1a901898830386e116b0b8f1[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 22:34:24 2023 -0500
+
+    upload code class 4
+
+[33mcommit 289c15b6ac5d6e6aa7d968f8cfe3a1113e152e2e[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Mon Feb 27 22:30:23 2023 -0500
+
+    Add files via upload
+
+[33mcommit 989acbe110b94d09880e98412da74644f1460bba[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 14:42:19 2023 -0500
+
+    typo
+
+[33mcommit 70062566ece34fb9529c234644c811907f5e2938[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 14:40:41 2023 -0500
+
+    fix slides to reflect progress
+
+[33mcommit a4d1db1b7819b842810f39d1e8d5f1296f023572[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 14:37:33 2023 -0500
+
+    class 4 slides
+
+[33mcommit 1648de3ffa0d447cde941d31f9da11a7e7644902[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 14:36:42 2023 -0500
+
+    class 4 slides
+
+[33mcommit 41d922313b69ba7f1b73ed18c8e9d4d2b3af42bd[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Mon Feb 27 14:35:08 2023 -0500
+
+    update topics
+
+[33mcommit a09374c8eeac91f740ee4e602641bd920d756ad0[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sun Feb 26 15:37:36 2023 -0500
+
+    Add files via upload
+
+[33mcommit ed5d4f62df60d564e6449307c30c88192a90048d[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Feb 25 14:04:32 2023 -0500
+
+    Add files via upload
+
+[33mcommit b0f619e78898fe9cba247ff647442810ed5a3d40[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 25 13:36:42 2023 -0500
+
+    update homework 3
+
+[33mcommit e497e7a7a5c06661da03d0d307c2bee5cf8f970a[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 25 13:34:37 2023 -0500
+
+    upload class 3
+
+[33mcommit f5b47a1fc417b914e63c10bc4b8a0fd26a00437b[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Feb 25 13:12:05 2023 -0500
+
+    Add files via upload
+
+[33mcommit 45b0dc561661bbc50915073ce4d4928bea5f3e44[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Feb 25 13:11:51 2023 -0500
+
+    Delete DSI-06 Homework 1.html
+
+[33mcommit a77556f4953ad627535d0628af3566034055624d[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Sat Feb 25 12:50:44 2023 -0500
+
+    Add files via upload
+
+[33mcommit fec79b8c0e05dc5a4cdc42a356ce7e8218e4659b[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 25 07:57:34 2023 -0500
+
+    update topics based on progress
+
+[33mcommit 19ca76f947df3381a519ebfb6bcf2f9181281f97[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 25 07:53:54 2023 -0500
+
+    add class 3 slides
+
+[33mcommit b90c3eecb8da31d092f1b7242c13d8b74e092d71[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Fri Feb 24 15:53:27 2023 -0500
+
+    update assignment - remove q4
+
+[33mcommit f43283fef0bde6916573b341c220562e7bbfc3ed[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Feb 23 22:57:56 2023 -0500
+
+    update homework
+
+[33mcommit 7e510951afbff8b17417c49b9430a7ba5e4cbdae[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Feb 23 22:54:37 2023 -0500
+
+    update code class 2
+
+[33mcommit 8aff568e7976fe71397cba29d057abf2a80214e2[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:38:04 2023 -0500
+
+    Add files via upload
+
+[33mcommit 5355b9acfcc5956e223be580e34882ad4fa85d6c[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:37:53 2023 -0500
+
+    Delete DSI-06 Homework 1.docx
+
+[33mcommit 66653a3b53b83d6ff2d5ab175978930838432e8d[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:37:22 2023 -0500
+
+    Add files via upload
+
+[33mcommit ce2beb196603422680efbc44be7e5684adc5c6ef[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:37:06 2023 -0500
+
+    Delete DSI-06 Homework 1.docx
+
+[33mcommit 7d77caf46fcfabecdde2113ae2fac38220f0a166[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:36:35 2023 -0500
+
+    Add files via upload
+
+[33mcommit f58891737a5c1b2d91457106a724228b57fdf0eb[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:36:21 2023 -0500
+
+    Delete Homework 1
+
+[33mcommit 650affa78668f3b11de77e145f8cf87f80a55bcc[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:36:10 2023 -0500
+
+    Add files via upload
+
+[33mcommit dc7641d67ef8efccf2a5205cdae945d8e5fff49d[m
+Author: juliagallucci <78810440+juliagallucci@users.noreply.github.com>
+Date:   Thu Feb 23 22:35:55 2023 -0500
+
+    Create Homework 1
+
+[33mcommit bb6d92c6d78d4ebc92bacbbfb13f1ed25824eba0[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Feb 23 16:39:31 2023 -0500
+
+    update slides
+
+[33mcommit 9912050144b2daf949a0f56cbea63c434b159814[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Thu Feb 23 16:37:44 2023 -0500
+
+    classification
+
+[33mcommit 5a5644da77bc9f88e1856fc82c295109378132ec[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Tue Feb 21 22:44:24 2023 -0500
+
+    add instructions download assignment
+
+[33mcommit b5f88c40ecad0c63fe36037b1c6cf80806ef6002[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Tue Feb 21 16:57:50 2023 -0500
+
+    add assignments
+
+[33mcommit d52f2dfe4e5f63b5d0416598a59830fc6cbe5068[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Feb 19 13:38:21 2023 -0500
+
+    fixed date
+
+[33mcommit b1dfd5fb78ec5dbd9deada2c5ae0cd318c6a2e3c[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sun Feb 19 13:23:45 2023 -0500
+
+    update wk 1 homework
+
+[33mcommit dea24fe389e1b9a88fcb2ab62908839da886500e[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 16:28:06 2023 -0500
+
+    clarify textbook use
+
+[33mcommit cbd0ff8809a4f191aa4fd9fb8fd81ba08238049d[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 16:23:33 2023 -0500
+
+    update TOC
+
+[33mcommit d175608134f19b4675821ab3050d905da26cbcbe[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 16:21:08 2023 -0500
+
+    typos
+
+[33mcommit 2f34d2c382e3d38d17a54f1e3647f2e43f001ba1[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 16:20:06 2023 -0500
+
+    typo
+
+[33mcommit 6db8212515cd1c916310f02ed76f0fe02fb68901[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:58:21 2023 -0500
+
+    add slides class 1
+
+[33mcommit 1985563110729211abea7bbc7fc2e779c9889f30[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:47:02 2023 -0500
+
+    Update README.md
+
+[33mcommit a7606904a5aaa7b06aa9c0a83bc67eb97ddfec1a[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:46:10 2023 -0500
+
+    update homework pgs
+
+[33mcommit 67796363108b86e2110f2aca3c6b3de820463331[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:44:46 2023 -0500
+
+    rename exercises
+
+[33mcommit 11d108939425ace97be1522a1bf46004eb53f47c[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:32:10 2023 -0500
+
+    added slides class 1
+
+[33mcommit 431c9fafe54e2e562fa3b6e7313330412b415cda[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:30:27 2023 -0500
+
+    add lessons
+
+[33mcommit ab76e224a024f4ee8b6ead4340f7711eba06bb1e[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:28:46 2023 -0500
+
+    remove exit survey; will replace
+
+[33mcommit de031411c9bf9a38e76d185e2d92424ceb174528[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 15:27:51 2023 -0500
+
+    remove old slides, will replace
+
+[33mcommit f46437d9a23874babd5c97e8ab922fad2e44700f[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 14:56:21 2023 -0500
+
+    update TOC
+
+[33mcommit 4c7faddc64a3018ae71edbf0fa6e7c365484009d[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 14:54:05 2023 -0500
+
+    updated ref chapters
+
+[33mcommit e5500be803f4b102ed9860e3776cd9dac1d6eedf[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 14:41:32 2023 -0500
+
+    added homework assignments
+
+[33mcommit c7472e0fa3f857d22e98a92aed5e6a5d8e5103e6[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 12:51:10 2023 -0500
+
+    Update .gitignore
+
+[33mcommit 92692d3e18048b1e35f7cc1719f1cd8a19446044[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 11:51:51 2023 -0500
+
+    fix slide links
+
+[33mcommit da7397f91b5daee4cf3f95c9ca88ad9751458ee1[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 11:49:41 2023 -0500
+
+    update TOC
+
+[33mcommit 0863bf4cb11ec8d78ec9c134e80800f45a9fd333[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 11:42:27 2023 -0500
+
+    Fix typos
+
+[33mcommit ecdc11170761828832903ea2d238b5a9b3593db5[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 11:27:03 2023 -0500
+
+    updated grading
+
+[33mcommit 8935ec0a9528239c3d9941cb57b84872acafe65a[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 10:50:02 2023 -0500
+
+    updated dates
+
+[33mcommit ae0e4e7009cc8dcf9edda54da0e5790bc3ba227f[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 10:23:26 2023 -0500
+
+    update Assignments
+
+[33mcommit 293db2665e1fde2cedf9bcfdbc5a8c6feb215466[m
+Author: ɐuoʌɐu <navona.calarco@mail.utoronto.ca>
+Date:   Sat Feb 18 09:56:53 2023 -0500
+
+    update logistics
+
+[33mcommit d35cf95a9d3a49f640f2ddeeeec5d712c3fe1525[m
+Author: Rohan Alexander <RohanAlexander@users.noreply.github.com>
+Date:   Wed Feb 15 13:40:12 2023 -0500
+
+    Add lesson plans and example homeworks
+
+[33mcommit 08c948f6089b4b153701a481eb7774607f874c31[m
+Author: Rohan Alexander <RohanAlexander@users.noreply.github.com>
+Date:   Wed Feb 15 11:21:07 2023 -0500
+
+    first commit
+
+[33mcommit e24d941c15bff1869864ab19e22116eda5f03b29[m
+Author: Rohan Alexander <RohanAlexander@users.noreply.github.com>
+Date:   Mon Feb 13 07:41:58 2023 -0500
+
+    Initial commit
